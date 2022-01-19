@@ -1,0 +1,2 @@
+# Employee-Managment-System-dbms-mini-project
+The objective of “Employee Management System” is designing a scheduling system for a work center. Employee Management System is a distributed application, developed to maintain the details of employees working in any organization. It maintains the information about the personal details of employees. This software project has been developed using the powerful coding tools of HTML, CSS and PHP at Front End and SQL Server at Back End.
